@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/malexander/Documents/KanaeGameEngine/build/cmake_install.cmake",
+		"/Users/malexander/Documents/KanaeGameEngine/build/_deps/json-build/cmake_install.cmake",
+		"/Users/malexander/Documents/KanaeGameEngine/build/_deps/glfw-build/cmake_install.cmake",
+		"/Users/malexander/Documents/KanaeGameEngine/build/_deps/glfw-build/src/cmake_install.cmake",
+		"/Users/malexander/Documents/KanaeGameEngine/build/_deps/glm-build/cmake_install.cmake",
+		"/Users/malexander/Documents/KanaeGameEngine/build/_deps/glm-build/glm/cmake_install.cmake",
+		"/Users/malexander/Documents/KanaeGameEngine/build/Examples/cmake_install.cmake",
+		"/Users/malexander/Documents/KanaeGameEngine/build/Examples/BasicScene/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

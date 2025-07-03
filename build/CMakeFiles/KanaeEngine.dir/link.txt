@@ -1,0 +1,2 @@
+/usr/bin/ar qc libKanaeEngine.a CMakeFiles/KanaeEngine.dir/CoreEngine/Graphics/VulkanContext.cpp.o CMakeFiles/KanaeEngine.dir/CoreEngine/Graphics/GraphicsDevice.cpp.o CMakeFiles/KanaeEngine.dir/CoreEngine/Launcher/Launcher.cpp.o
+/usr/bin/ranlib libKanaeEngine.a

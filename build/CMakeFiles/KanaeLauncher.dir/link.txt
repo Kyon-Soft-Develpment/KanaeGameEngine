@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/KanaeLauncher.dir/CoreEngine/Launcher/main.cpp.o -o KanaeLauncher  libKanaeEngine.a libimgui_impl.a _deps/glfw-build/src/libglfw3.a -framework Cocoa -framework IOKit -framework CoreFoundation /opt/homebrew/lib/libMoltenVK.dylib libnfd.a -framework AppKit

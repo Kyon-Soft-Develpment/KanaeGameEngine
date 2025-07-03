@@ -1,0 +1,3 @@
+/Users/malexander/Documents/KanaeGameEngine/build/_deps/nativefiledialog-subbuild/CMakeFiles/nativefiledialog-populate.dir
+/Users/malexander/Documents/KanaeGameEngine/build/_deps/nativefiledialog-subbuild/CMakeFiles/edit_cache.dir
+/Users/malexander/Documents/KanaeGameEngine/build/_deps/nativefiledialog-subbuild/CMakeFiles/rebuild_cache.dir
